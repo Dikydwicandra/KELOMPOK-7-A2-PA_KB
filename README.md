@@ -1,6 +1,7 @@
 # KELOMPOK-7-A2-PA_KB
 KLASIFIKASI GAMBAR WAJAH HEWAN
 - Link Dataset : https://www.kaggle.com/datasets/andrewmvd/animal-faces
+- Link Model : https://drive.google.com/file/d/1xdVApaHJjI8nppHy_0YRa_GqOX-AZVD-/view?usp=share_link
 
 Anggota Kelompok
 - 2109106029 Maezar Abdillah

@@ -11,7 +11,7 @@ Anggota Kelompok
 PENJELASAN DATASET :
 Dataset ini bisa disebut dengan Animal Faces-HQ (AFHQ). Dataset ini terdiri dari 16.130 gambar berkualitas tinggi dengan resolusi 512×512. Ada tiga domain kelas yang masing-masing kelasnya menyediakan sekitar 5000 gambar. Dengan memiliki tiga domain kelas dan beragam gambar dari berbagai keturunan per setiap domain, AFHQ menetapkan masalah terjemahan gambar-ke-gambar yang menantang. Kelas-kelas tersebut adalah kucing, anjing, dan margasatwa.
 
-##Table Of Content
+Table Of Content
 - Import Library
 - Import Dataset
 - Preprocessing
